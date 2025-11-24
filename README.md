@@ -46,10 +46,10 @@
 
 <div align="center">
   <a href="https://twitter.com/MaheshRaj77"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00f2ff&border=00f2ff" /></a>
-  <a href="https://linkedin.com/in/maheshraj77"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f2ff&border=00f2ff" /></a>
+  <a href="www.linkedin.com/in/mahesh-dev77"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f2ff&border=00f2ff" /></a>
   <a href="https://github.com/MaheshRaj77"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f2ff&border=00f2ff" /></a>
-  <a href="mailto:mahesh@maheshraj.me"><img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=00f2ff&border=00f2ff" /></a>
-  <a href="https://maheshraj.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00f2ff&border=00f2ff" /></a>
+  <a href="mailto:me.viper07@gmail.com"><img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=00f2ff&border=00f2ff" /></a>
+  <a href="https://www.maheshraj.tech/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00f2ff&border=00f2ff" /></a>
 </div>
 
 <br/>
